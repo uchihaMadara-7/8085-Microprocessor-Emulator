@@ -1,0 +1,5 @@
+1. no set command made yet.
+2. also you have used str name in operand.h which is the same name map which
+stores your program, check this in case of error
+thanks :)
+
